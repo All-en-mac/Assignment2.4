@@ -1,6 +1,4 @@
-Step 1: Before Code (Intentionally Buggy HTML)
-Here is a sample of a buggy HTML file containing missing closing tags, incorrect nesting, and missing required attributes:
-
+step 1
 HTML
 <html>
 <head>
@@ -68,8 +66,3 @@ Press F12 to open Chrome DevTools, switch to the Elements tab, and verify that t
 HTML Validator:
 
 Copy the fixed code and paste it into the W3C Markup Validation Service to ensure it returns a "Document checking completed. No errors or warnings to show" message.
-
-Submission Checklist
-Before-and-After Code: Copy the buggy code block and the fixed code block into your submission document.
-
-Screenshot: Take a screenshot of your browser rendering the fixed webpage successfully (and optionally, the Elements panel in DevTools showing the clean DOM structure) for your final assignment package!
